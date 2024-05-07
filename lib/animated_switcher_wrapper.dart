@@ -1,5 +1,3 @@
-library animated_switcher_wrapper;
-
 export 'animated_switcher_wrapper.dart';
 export 'src/animated_switcher_scale_fade.dart';
 export 'src/animated_switcher_size_fade.dart';

@@ -1,5 +1,5 @@
+import 'package:animated_switcher_wrapper/animated_switcher_wrapper.dart';
 import 'package:flutter/material.dart';
-import '../animated_switcher_wrapper.dart';
 
 /// A widget that combines scale and fade animations to transition between widgets.
 ///
