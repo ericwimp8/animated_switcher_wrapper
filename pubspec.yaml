@@ -4,11 +4,11 @@ description: "Basic wrapper for AnimatedSwitcher to provide a some custom animat
 
 version: 0.0.1
 
-repository: https://github.com/ericwimp8/with_value
+repository: https://github.com/ericwimp8/animated_switcher_wrapper
 
-homepage: https://github.com/ericwimp8/with_value
+homepage: https://github.com/ericwimp8/animated_switcher_wrapper
 
-issue_tracker: https://github.com/ericwimp8/with_value/issues
+issue_tracker: https://github.com/ericwimp8/animated_switcher_wrapper/issues
 
 platforms:
   android:

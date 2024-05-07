@@ -1,32 +1,6 @@
-# Project README
+import 'package:animated_switcher_wrapper/animated_switcher_wrapper.dart';
+import 'package:flutter/material.dart';
 
-## Description
-
-This package is a basic wrapper for AnimatedSwitcher to provide some custom animations. It offers a convenient way to enhance the visual transitions in your Flutter applications.
-
-## Features
-
-- Provides custom animations for AnimatedSwitcher
-- Easy to integrate with existing codebases
-- Helps improve the user experience with smooth transitions
-
-## Getting Started
-
-To begin using this package, make sure you have Flutter installed. You can then follow these steps:
-
-1. Add the package to your `pubspec.yaml` file.
-2. Import the necessary components from this package.
-3. Use the provided animations to enhance your app's transitions.
-
-For more detailed instructions and examples, check out the `/example` folder in this repository.
-
-## Additional Information
-
-For more information, contributions, filing issues, or contacting the package authors, please visit the [GitHub repository](https://github.com/ericwimp8/animated_switcher_wrapper).
-
-## Usage
-
-```dart
 void main() {
   runApp(const MyApp());
 }
@@ -193,4 +167,3 @@ class _AnimatedSwitcherWrapperExampleState
     );
   }
 }
-```
