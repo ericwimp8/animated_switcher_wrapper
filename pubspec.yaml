@@ -23,6 +23,7 @@ environment:
   flutter: ">=1.17.0"
 
 dependencies:
+  very_good_analysis: ^5.1.0
   flutter:
     sdk: flutter
 
